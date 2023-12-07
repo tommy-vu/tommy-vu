@@ -4,7 +4,8 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me:
   - Facebook: 
-  - Blog: 
+  - Blog:
+  - LinkedIn:  
 
 <!---
 tommy-vu/tommy-vu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
